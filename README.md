@@ -1,53 +1,61 @@
-# Hi there, I'm Fajar Budi Raharjo 👋
+# Hi there, I'm [Nama Anda] 👋
 
 ## 🚀 About Me
-I am a passionate **Web Developer** and **Digital Designer** based in Jakarta, Indonesia. I love bridging the gap between clean, functional code and aesthetic, modern design. Aside from building web experiences, I also have a keen interest in networking technologies and infrastructure.
+I am a passionate **AI Engineer**, **Web Developer**, and **Digital Designer**. I love bridging the gap between intelligent AI models, clean web architecture, and modern aesthetics. Currently, I am deeply focused on building smart applications using LLMs, fine-tuning models, and integrating AI into production environments.
 
 - 🌍 Based in: **Jakarta, Indonesia**
-- ✉️ Reach me at: **itsfajarbudi@gmail.com**
-- 🎨 Portfolio: **https://itsfajarbudi.github.io/my-portfolio**
+- ✉️ Reach me at: **[Email Anda]**
+- 🎨 Portfolio: **[Link Portfolio/Website Anda]**
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend & Web Development
+### 🤖 AI Engineering & Data Science
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-yellow?style=for-the-badge)
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### 💻 Frontend & Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Design & Assets
+### 🎨 Design & Assets
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Networking & Infrastructure
 ![CCNA Cisco](https://img.shields.io/badge/CCNA_CISCO-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![MTCNA Mikrotik](https://img.shields.io/badge/MTCNA_Mikrotik-%23F7DF1E.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![ARDUINO IOT](https://img.shields.io/badge/ARDUINO_IOT-%2338B2AC.svg?style=for-the-badge&logo=cisco&logoColor=white)
+
+### Public 
 ![DRONE PILOT CERTIFICATION](https://img.shields.io/badge/DRONE_PILOT_CERTIFICATION-%23E34F26.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
 ## 📂 Featured Projects
 
-### 1. 🏠 Aesthetic Homecare Website Template
-A modern, responsive web template designed for premium homecare and beauty salon services. Built with a focus on clean user experience and a contemporary aesthetic.
-* **Tech Stack:** HTML5, Tailwind CSS, JavaScript.
-* **Key Features:** Clean typography, minimalist design, dynamic booking form layout, and responsive service catalogs.
-* [🔗 View Repository](https://github.com/username/homecare-web-template)
+### 1. 🤖 Smart Aesthetic Homecare RAG Bot (AI + Web)
+An intelligent chatbot assistant for a beauty & homecare service. It uses Retrieval-Augmented Generation (RAG) to answer customer inquiries based on specific company service catalogs and aesthetic guidelines.
+* **Tech Stack:** Python, OpenAI API, LangChain, Tailwind CSS, ChromaDB (Vector Store).
+* **Key Features:** Context-aware responses, automated booking flow via natural language, and a beautifully designed chat interface.
+* [🔗 View Repository](https://github.com/username/homecare-rag-bot)
 
-### 2. 🛡️ Network Topology Simulation (Cisco Lab)
-A collection of Cisco Packet Tracer designs showcasing secure network architectures, implementing structured routing and switching based on the OSI model layer principles.
-* **Technologies:** Cisco Packet Tracer, Static/Dynamic Routing, VLANs, ACLs.
-* **Key Features:** Network segmentation, optimized traffic flow, and secure gateway configurations.
-* [🔗 View Repository](https://github.com/username/cisco-network-labs)
+### 2. 🧠 Custom LLM Fine-Tuning or Prompt Engineering Lab
+A collection of notebooks and scripts exploring prompt engineering techniques (Few-Shot, Chain-of-Thought) and fine-tuning lightweight open-source LLMs for specific creative writing or design assistant tasks.
+* **Tech Stack:** PyTorch, Hugging Face Transformers, Google Colab.
+* **Key Features:** Parameter-efficient fine-tuning (LoRA), optimized prompt templates for generating UI/UX design copy.
+* [🔗 View Repository](https://github.com/username/llm-ai-lab)
 
-### 3. 🎨 Digital Asset Showcase & Portfolio
-A centralized repository storing custom UI components, landing page mockups, and structured design tokens for web development projects.
-* **Tools:** Figma API, CSS Variables, Markdown.
-* **Key Features:** Easy-to-browse components, downloadable assets, and documentation for design system integration.
-* [🔗 View Repository](https://github.com/username/digital-assets-portfolio)
+### 3. 🖼️ AI-Powered Digital Asset Tagging & Search
+An image-to-text semantic search application that automatically labels digital design assets and allows users to search for images using natural language queries instead of just filenames.
+* **Tech Stack:** Python, CLIP Model (OpenAI), Streamlit, UI/UX Mockup.
+* **Key Features:** Auto-tagging functionality, multi-modal search (text-to-image), and a clean web dashboard for asset management.
+* [🔗 View Repository](https://github.com/username/ai-asset-search)
 
 ---
 
@@ -58,4 +66,4 @@ A centralized repository storing custom UI components, landing page mockups, and
 
 ---
 
-💡 *“Simplicity is the ultimate sophistication.”* - Leonardo da Vinci
+💡 *“The best way to predict the future is to invent it.”* - Alan Kay
