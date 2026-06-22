@@ -1,11 +1,11 @@
-# Hi there, I'm [Nama Anda] 👋
+# Hi there, I'm Fajar Budi Raharjo 👋
 
 ## 🚀 About Me
 I am a passionate **Web Developer** and **Digital Designer** based in Jakarta, Indonesia. I love bridging the gap between clean, functional code and aesthetic, modern design. Aside from building web experiences, I also have a keen interest in networking technologies and infrastructure.
 
 - 🌍 Based in: **Jakarta, Indonesia**
-- ✉️ Reach me at: **[Email Anda]**
-- 🎨 Portfolio: **[Link Portfolio/Website Anda jika ada]**
+- ✉️ Reach me at: **itsfajarbudi@gmail.com**
+- 🎨 Portfolio: **https://itsfajarbudi.github.io/my-portfolio**
 
 ---
 
