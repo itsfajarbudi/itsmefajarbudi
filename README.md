@@ -23,8 +23,8 @@ I am a passionate **Web Developer** and **Digital Designer** based in Jakarta, I
 
 ### Networking & Infrastructure
 ![CCNA Cisco](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![MTCNA Mikrotik](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![IOT](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![MTCNA Mikrotik](https://img.shields.io/badge/cisco-%23F7DF1E.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![IOT](https://img.shields.io/badge/cisco-%2338B2AC.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![DRONE PILOT CERTIFICATION](https://img.shields.io/badge/cisco-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
