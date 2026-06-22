@@ -1,4 +1,4 @@
-# Hi there, I'm [Nama Anda] 👋
+# Hi there, I'm [Fajar Budi Raharjo] 👋
 
 ## 🚀 About Me
 I am a passionate **AI Engineer**, **Web Developer**, and **Digital Designer**. I love bridging the gap between intelligent AI models, clean web architecture, and modern aesthetics. Currently, I am deeply focused on building smart applications using LLMs, fine-tuning models, and integrating AI into production environments.
