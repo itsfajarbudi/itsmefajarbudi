@@ -30,7 +30,7 @@ I am a passionate **AI Engineer**, **Web Developer**, and **Digital Designer**. 
 ### Networking & Infrastructure
 ![CCNA Cisco](https://img.shields.io/badge/CCNA_CISCO-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
 ![MTCNA Mikrotik](https://img.shields.io/badge/MTCNA_Mikrotik-%23F7DF1E.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![ARDUINO IOT](https://img.shields.io/badge/ARDUINO_IOT-%2338B2AC.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![ARDUINO IOT](https://img.shields.io/badge/ARDUINO_IOT-%412991.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### Public 
 ![DRONE PILOT CERTIFICATION](https://img.shields.io/badge/DRONE_PILOT_CERTIFICATION-%23E34F26.svg?style=for-the-badge&logo=cisco&logoColor=white)
