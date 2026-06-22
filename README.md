@@ -33,7 +33,7 @@ I am a passionate **AI Engineer**, **Web Developer**, and **Digital Designer**. 
 ![ARDUINO IOT](https://img.shields.io/badge/ARDUINO_IOT-%412991.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ### Public 
-![DRONE PILOT CERTIFICATION](https://img.shields.io/badge/DRONE_PILOT_CERTIFICATION-%412991.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![Drone Pilot Certification](https://img.shields.io/badge/Drone_Pilot_certification%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
