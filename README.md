@@ -4,8 +4,8 @@
 I am a passionate **AI Engineer**, **Web Developer**, and **Digital Designer**. I love bridging the gap between intelligent AI models, clean web architecture, and modern aesthetics. Currently, I am deeply focused on building smart applications using LLMs, fine-tuning models, and integrating AI into production environments.
 
 - 🌍 Based in: **Jakarta, Indonesia**
-- ✉️ Reach me at: **[Email Anda]**
-- 🎨 Portfolio: **[Link Portfolio/Website Anda]**
+- ✉️ Reach me at: **[itsfajarbudi@gmail.com]**
+- 🎨 Portfolio: **[https://itsfajarbudi.github.io/my-portfolio]**
 
 ---
 
@@ -61,9 +61,9 @@ An image-to-text semantic search application that automatically labels digital d
 
 ## 📊 GitHub Stats
 
-![fajarbudi GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![fajarbudi GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsfajarbudi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
 
 ---
 
-💡 *“The best way to predict the future is to invent it.”* - Alan Kay
+💡 *“The best way to predict the future is to invent it.”* - Fajar Budi Raharjo
