@@ -22,10 +22,10 @@ I am a passionate **Web Developer** and **Digital Designer** based in Jakarta, I
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ### Networking & Infrastructure
-![CCNA Cisco](https://img.shields.io/badge/CCNA-CISCO-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![MTCNA Mikrotik](https://img.shields.io/badge/MTCNA-Mikrotik-%23F7DF1E.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![ARDUINO IOT](https://img.shields.io/badge/ARDUINO-IOT-%2338B2AC.svg?style=for-the-badge&logo=cisco&logoColor=white)
-![DRONE PILOT CERTIFICATION](https://img.shields.io/badge/DRONE-PILOT-CERTIFICATION-%23E34F26.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![CCNA Cisco](https://img.shields.io/badge/CCNACISCO-%231BA0D7.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![MTCNA Mikrotik](https://img.shields.io/badge/MTCNAMikrotik-%23F7DF1E.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![ARDUINO IOT](https://img.shields.io/badge/ARDUINOIOT-%2338B2AC.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![DRONE PILOT CERTIFICATION](https://img.shields.io/badge/DRONEPILOTCERTIFICATION-%23E34F26.svg?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
