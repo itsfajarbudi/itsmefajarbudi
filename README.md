@@ -61,7 +61,7 @@ An image-to-text semantic search application that automatically labels digital d
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![fajarbudi GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
 
 ---
